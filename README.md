@@ -2,7 +2,6 @@
 Submission piece for Developing Technical Software, BScs Computer Science.
 
 
-
 ### Description:
 This Program reads Sensor Inputs from a Text File [Must be in local directory and entitled speed.txt, see included example] and produces a Summary report containing the maximum value, minimum value, and the average of all Sensor Inputs.
 
@@ -11,9 +10,6 @@ This Program reads Sensor Inputs from a Text File [Must be in local directory an
 </p>
 
 ### Instructions:
-Navigate to the Project directory using Terminal or preferred compiler and type:<br> 
-``` gcc –o SensorReader Task4_Read_Data_Files.c ``` to build.  
-Next, run the executable file that is created.
-<br>
+See Install, Compile and Run instructions [here](https://github.com/AndrewColbeck/ProgrammingNotes/wiki/C-Programming).
 
 By Andrew Colbeck © 2018
